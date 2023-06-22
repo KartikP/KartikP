@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">Currently a computational neuroscience PhD student.</h3>
+<h3 align="center">Currently a computational neuroscience PhD student🧠.</h3>
 
 <p align="center">
     <a href="https://twitter.com/kartikpradeepan" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=%40kartikpradeepan&logo=Twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fkartikpradeepan"></a>
