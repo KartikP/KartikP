@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">A computational neuroscience researcher working with large time-series data.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikp&label=Profile%20views&color=0e75b6&style=flat" alt="kartikp" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kartikpradeepan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikpradeepan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kartikspradeepan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikspradeepan" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://twitter.com/kartikpradeepan" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=%40jasonkai&logo=Twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fjasonkai"></a>
+    <a href="[https://linkedin.com/in/kartik](https://www.linkedin.com/in/kartikpradeepan/)" target="_blank"><img src="https://img.shields.io/twitter/url?color=informational&label=jasonkai&logo=LinkedIn&style=flat-square&url=https%3A%2F%2Flinkedin.com%2Fin%2Fjasonkai"></a>
+    <a href="https://kartikp.com" target="_blank"><img src="https://img.shields.io/twitter/url?color=red&label=Website&style=flat-square&url=https%3A%2F%2Fjasonkai.com"></a>
+    <img src="https://komarev.com/ghpvc/?username=kartikp&style=flat-square&color=yellowgreen">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
