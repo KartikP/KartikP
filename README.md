@@ -12,8 +12,9 @@
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-    </p>
-    <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="[https://commons.wikimedia.org/wiki/File:R_logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png)" alt="R" width="40" height="40"/> </a>
+    <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AR_logo.svg&psig=AOvVaw2r8cSMi8gDl_PNXUTAU3Mo&ust=1687829269344000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjunJLk3_8CFQAAAAAdAAAAABAE![image](https://github.com/KartikP/KartikP/assets/2040394/12c2e7bc-ac0b-4e66-b799-d6ced629d9f4)
+" alt="R" width="40" height="40"/> </a>    </p>
+
 <h3 align="left">Tools:</h3>
         <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
