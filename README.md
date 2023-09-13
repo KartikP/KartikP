@@ -1,4 +1,4 @@
-=<h1 align="center">Hi 👋, I'm Kartik</h1>
+<h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">Currently a computational neuroscience PhD student 🧠.</h3>
 
 <p align="center">
